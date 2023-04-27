@@ -1,1 +1,3 @@
-Testing and development isn't done with the main branch. Please use the development branch if available or create a feature branch.
+Please use the development branch for merge requests or create a feature branch.
+
+The main branch is only for tested code and releases!
