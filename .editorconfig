@@ -14,6 +14,7 @@ indent_size = 2
 [{*.ctp,*.hphp,*.inc,*.module,*.php,*.php4,*.php5,*.phtml}]
 ij_php_phpdoc_use_fqcn = true
 ij_php_line_comment_at_first_column = false
+ij_php_line_comment_add_space = true
 
 [*.md]
 trim_trailing_whitespace = false
